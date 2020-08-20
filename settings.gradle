@@ -11,4 +11,4 @@ pluginManagement {
 enableFeaturePreview('GRADLE_METADATA')
 
 rootProject.name = 'kotlin-with-cocoapods-sample'
-include 'kotlin-library'
+include 'afnetworking'
